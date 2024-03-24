@@ -1,48 +1,11 @@
-<h2 align="left">Hi 👋! My name is Om Pandey and I'm a Full Stack Developer, from Beautiful Land Of Nepal</h2>
+👋 Howdy, fellow coders and curious minds! 🚀
 
-###
+Welcome to my corner of the coding universe! 🌌 My name is Om Pandey, and I'm not just your average full stack developer – I'm your tech-savvy tour guide through the realms of React, Python, Django, Docker, SQL, HTML, CSS, JavaScript, and Bootstrap! 💻✨
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Whether I'm crafting sleek front-end designs with the finesse of a digital artist 🎨 or architecting robust back-end systems with the precision of a master builder 🏗️, you can bet I'll be bringing my A-game to the table every time.
 
-###
+Got a bug that's being more stubborn than a cat refusing a bath? 🐱 No problem! I'm here to squash those bugs with the finesse of a seasoned bug whisperer. 🐜🗣️
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Feel free to drop me a line at iamompandey.it@gmail.com – whether it's to collaborate on a project 🤝, swap coding war stories 🛡️, or just geek out over the latest tech trends! 💬✨
 
-###
-
-<div align="left">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png" height="30" alt="javascript logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*JAJ910fg52ODIRZjHXASBQ.png" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+So grab your favorite beverage ☕, buckle up, and let's embark on this epic coding adventure together! 🚀💻
