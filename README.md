@@ -44,7 +44,6 @@ Here are some of the tools and technologies I work with:
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=om-pandey&theme=radical)
 
-![GitHub Repos](https://github-readme-stats.vercel.app/api/pin/?username=om-pandey&repo=repo-name&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=om-pandey&theme=radical&column=7)
 
