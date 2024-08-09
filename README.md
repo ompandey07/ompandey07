@@ -30,10 +30,10 @@ Here are some of the tools and technologies I work with:
 ## 🗣️ Testimonials
 
 ### "Om is a true professional and a pleasure to work with. His attention to detail and problem-solving skills are top-notch!" 
-— **Client Name**, Company
+— **Anil Munankarmi**, Pioneer Software Solutions Pvt. Ltd.
 
 ### "Delivered high-quality work on time. Highly recommend Om for any web development projects!"
-— **Client Name**, Company
+— **Prahlad Gautam**, Ganesh Man Singh Multiple Campus
 
 ---
 
@@ -41,6 +41,12 @@ Here are some of the tools and technologies I work with:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=om-pandey&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-pandey&layout=compact&theme=radical)
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=om-pandey&theme=radical)
+
+![GitHub Repos](https://github-readme-stats.vercel.app/api/pin/?username=om-pandey&repo=repo-name&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=om-pandey&theme=radical&column=7)
 
 ---
 
