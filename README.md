@@ -27,18 +27,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 🌟 Featured Projects
-
-Here are a few projects that showcase my skills and expertise:
-
-- **[Project Name 1](#)**: Brief description of the project, what technologies were used, and your role in the project.
-- **[Project Name 2](#)**: Brief description of the project, what technologies were used, and your role in the project.
-- **[Project Name 3](#)**: Brief description of the project, what technologies were used, and your role in the project.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=om-pandey&repo=repo-name&theme=radical)](https://github.com/om-pandey/repo-name)
-
----
-
 ## 🗣️ Testimonials
 
 ### "Om is a true professional and a pleasure to work with. His attention to detail and problem-solving skills are top-notch!" 
@@ -68,9 +56,9 @@ Let's turn your ideas into reality!
 
 ## 🌐 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) 
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio Website](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-pandey-647844305/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/omeydev) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=flat&logo=web&logoColor=white)](https://www.omkumarpandey.com.np/)
 
 ---
 
