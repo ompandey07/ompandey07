@@ -13,7 +13,7 @@ Welcome to my corner of the coding universe! 🌌 My name is **Om Pandey**, and 
 As a versatile **Full Stack Developer**, I specialize in both **Front-end** and **Back-end** development, ensuring seamless integration and exceptional user experience. My expertise includes:
 
 - **Front-end Development**: Creating visually appealing and responsive web applications using **React**, **HTML**, **CSS**, and **JavaScript**.
-- **Back-end Development**: Building robust and scalable server-side applications with **Python**, **Django**, **SQL**, and **Docker**.
+- **Back-end Development**: Building Dynamic and scalable server-side applications with **Python**, **Django**, **SQL**, and **Docker**.
 - **API Development**: Designing and implementing RESTful APIs for smooth communication between front-end and back-end systems.
 - **Database Management**: Efficient handling and management of complex databases, ensuring data integrity and optimal performance.
 
