@@ -18,11 +18,11 @@ Whether it's building stunning web applications or architecting backend systems,
 
 | **Focus Area**           | **Skills**                           |
 |---------------------------|---------------------------------------|
-| Frontend Development      | React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
-| Backend Development       | Python, Django                      |
-| Database Management       | SQL (MySQL, PostgreSQL)             |
-| DevOps & Deployment       | Docker, Heroku, GitHub Actions      |
-| Tools I Use               | VS Code, Postman, Git, Remix Icons  |
+| ![Frontend Icon](https://img.shields.io/badge/-Frontend-FF5733?style=for-the-badge&logo=html5&logoColor=white) Frontend Development      | React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
+| ![Backend Icon](https://img.shields.io/badge/-Backend-0D6EFD?style=for-the-badge&logo=python&logoColor=white) Backend Development       | Python, Django                      |
+| ![Database Icon](https://img.shields.io/badge/-Database-FFD700?style=for-the-badge&logo=postgresql&logoColor=white) Database Management       | SQL (MySQL, PostgreSQL)             |
+| ![DevOps Icon](https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white) DevOps & Deployment       | Docker, Heroku, GitHub Actions      |
+| ![Tools Icon](https://img.shields.io/badge/-Tools-20C997?style=for-the-badge&logo=visualstudiocode&logoColor=white) Tools I Use               | VS Code, Postman, Git, Remix Icons  |
 
 ---
 
