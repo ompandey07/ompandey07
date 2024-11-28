@@ -1,169 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Om Pandey - Full Stack Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 10px 0;
-        }
-        table th, table td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        table th {
-            background-color: #f4f4f4;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .badge {
-            display: inline-block;
-            margin: 5px 0;
-            padding: 5px 10px;
-            background-color: #3498db;
-            color: white;
-            border-radius: 3px;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
+# Hi there! I'm Om Pandey 👋
 
-    <h1>Hi there! I'm <b>Om Pandey</b> 👋</h1>
-    <p>🚀 <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b></p>
+🚀 **Full Stack Developer | Tech Enthusiast | Problem Solver**
 
-    <div class="section">
-        <h2>🌟 About Me</h2>
-        <p>
-            Hi! I'm a <b>passionate developer</b> who turns creative ideas into
-            <b>innovative tech solutions</b>. Whether it's building stunning web
-            applications or architecting backend systems, I’m here to make the digital
-            world better, one line of code at a time!
-        </p>
-        <ul>
-            <li>💡 Building <b>user-friendly applications</b> that look and perform like a dream.</li>
-            <li>☕ Exploring the latest in <b>AI, blockchain, and cloud computing</b>.</li>
-        </ul>
-    </div>
+---
 
-    <div class="section">
-        <h2>💻 What I Do</h2>
-        <table>
-            <tr>
-                <th>Focus Area</th>
-                <th>Skills</th>
-            </tr>
-            <tr>
-                <td>Frontend Development</td>
-                <td>React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap</td>
-            </tr>
-            <tr>
-                <td>Backend Development</td>
-                <td>Python, Django</td>
-            </tr>
-            <tr>
-                <td>Database Management</td>
-                <td>SQL (MySQL, PostgreSQL)</td>
-            </tr>
-            <tr>
-                <td>DevOps & Deployment</td>
-                <td>Docker, Heroku, GitHub Actions</td>
-            </tr>
-            <tr>
-                <td>Tools I Use</td>
-                <td>VS Code, Postman, Git, Remix Icons</td>
-            </tr>
-        </table>
-    </div>
+## 🌟 About Me
 
-    <div class="section">
-        <h2>⚡ What Sets Me Apart?</h2>
-        <ul>
-            <li>🧩 <b>Problem Solver</b>: I bring structure to chaos with innovative solutions.</li>
-            <li>🎨 <b>Design-Driven</b>: I craft interfaces that are as beautiful as they are functional.</li>
-            <li>🛠️ <b>Clean Code</b>: My code is maintainable, efficient, and future-proof.</li>
-            <li>🚀 <b>Reliable Partner</b>: Clients trust me for on-time delivery and outstanding results.</li>
-        </ul>
-    </div>
+Hi! I'm a **passionate developer** who turns creative ideas into **innovative tech solutions**.  
+Whether it's building stunning web applications or architecting backend systems, I’m here to make the digital world better, one line of code at a time!
 
-    <div class="section">
-        <h2>🌟 Technical Skills</h2>
-        <p>
-            <span class="badge">React</span>
-            <span class="badge">HTML</span>
-            <span class="badge">CSS</span>
-            <span class="badge">JavaScript</span>
-            <span class="badge">Tailwind CSS</span>
-            <span class="badge">Django</span>
-            <span class="badge">Python</span>
-            <span class="badge">SQL</span>
-            <span class="badge">Docker</span>
-            <span class="badge">Git</span>
-            <span class="badge">VS Code</span>
-        </p>
-    </div>
+- 💡 Building **user-friendly applications** that look and perform like a dream.
+- ☕ Exploring the latest in **AI, blockchain, and cloud computing**.
 
-    <div class="section">
-        <h2>✨ Portfolio Highlights</h2>
-        <p>📂 <a href="https://www.omkumarpandey.com.np/" target="_blank">View My Work</a></p>
-        <table>
-            <tr>
-                <th>Project Name</th>
-                <th>Description</th>
-            </tr>
-            <tr>
-                <td>Personal Finance Tracker</td>
-                <td>A web app for tracking and managing personal finances.</td>
-            </tr>
-            <tr>
-                <td>EasyBill (Billing Software)</td>
-                <td>An IRD-approved billing system used across various sectors.</td>
-            </tr>
-            <tr>
-                <td>CRM Portal</td>
-                <td>A feature-packed CRM with activity logs for employee actions and insights.</td>
-            </tr>
-        </table>
-    </div>
+---
 
-    <div class="section">
-        <h2>📞 Let's Connect</h2>
-        <ul>
-            <li>📧 <b>Email:</b> <a href="mailto:iamompandey.it@gmail.com">iamompandey.it@gmail.com</a></li>
-            <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/om-pandey-647844305/" target="_blank">Om Pandey</a></li>
-            <li>🌐 <b>Portfolio:</b> <a href="https://www.omkumarpandey.com.np/" target="_blank">omkumarpandey.com.np</a></li>
-            <li>🐦 <b>Twitter:</b> <a href="https://x.com/omeydev" target="_blank">@omeydev</a></li>
-        </ul>
-    </div>
+## 💻 What I Do
 
-    <div class="section">
-        <h2>🎯 Fun Facts About Me</h2>
-        <ul>
-            <li>I’m always on the hunt for <b>cutting-edge technologies</b> to explore.</li>
-            <li>A big fan of <b>tech conferences</b> and meetups.</li>
-            <li>Coffee fuels my creativity ☕️.</li>
-        </ul>
-    </div>
+| **Focus Area**           | **Skills**                           |
+|---------------------------|---------------------------------------|
+| Frontend Development      | React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
+| Backend Development       | Python, Django                      |
+| Database Management       | SQL (MySQL, PostgreSQL)             |
+| DevOps & Deployment       | Docker, Heroku, GitHub Actions      |
+| Tools I Use               | VS Code, Postman, Git, Remix Icons  |
 
-</body>
-</html>
+---
+
+## ⚡ What Sets Me Apart?
+
+- 🧩 **Problem Solver**: I bring structure to chaos with innovative solutions.
+- 🎨 **Design-Driven**: I craft interfaces that are as beautiful as they are functional.
+- 🛠️ **Clean Code**: My code is maintainable, efficient, and future-proof.
+- 🚀 **Reliable Partner**: Clients trust me for on-time delivery and outstanding results.
+
+---
+
+## 🌟 Technical Skills
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ✨ Portfolio Highlights
+
+📂 [**View My Work**](https://www.omkumarpandey.com.np/)
+
+| **Project Name**          | **Description**                                  |
+|---------------------------|--------------------------------------------------|
+| Personal Finance Tracker  | A web app for tracking and managing personal finances. |
+| EasyBill (Billing Software)| An IRD-approved billing system used across various sectors. |
+| CRM Portal                | A feature-packed CRM with activity logs for employee actions and insights. |
+
+---
+
+## 📞 Let's Connect
+
+- 📧 **Email**: [iamompandey.it@gmail.com](mailto:iamompandey.it@gmail.com)
+- 💼 **LinkedIn**: [Om Pandey](https://www.linkedin.com/in/om-pandey-647844305/)
+- 🌐 **Portfolio**: [omkumarpandey.com.np](https://www.omkumarpandey.com.np/)
+- 🐦 **Twitter**: [@omeydev](https://x.com/omeydev)
+
+---
+
+## 🎯 Fun Facts About Me
+
+- I’m always on the hunt for **cutting-edge technologies** to explore.
+- A big fan of **tech conferences** and meetups.
+- Coffee fuels my creativity ☕️.
