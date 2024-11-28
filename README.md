@@ -55,11 +55,14 @@ Whether it's building stunning web applications or architecting backend systems,
 
 📂 [**View My Work**](https://www.omkumarpandey.com.np/)
 
-| **Project Name**          | **Description**                                  |
-|---------------------------|--------------------------------------------------|
-| Personal Finance Tracker  | A web app for tracking and managing personal finances. |
-| EasyBill (Billing Software)| An IRD-approved billing system used across various sectors. |
-| CRM Portal                | A feature-packed CRM with activity logs for employee actions and insights. |
+| **Project Name**           | **Description**                                                                                       | **Icons**                                                                                       |
+|----------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Personal Finance Tracker** | A web app for tracking and managing personal finances.                                              | ![Finance](https://img.shields.io/badge/-Finance%20Tracker-0D6EFD?style=for-the-badge&logo=money&logoColor=white) |
+| **EasyBill (Billing Software)** | An IRD-approved billing system used across various sectors.                                       | ![Billing](https://img.shields.io/badge/-Billing%20Software-FF5733?style=for-the-badge&logo=paypal&logoColor=white) |
+| **CRM Portal**             | A feature-packed CRM with activity logs for employee actions and insights.                           | ![CRM](https://img.shields.io/badge/-CRM-7952B3?style=for-the-badge&logo=crm&logoColor=white) |
+| **Software Company Site**  | A dynamic website for showcasing company services, portfolio, and contact details.                   | ![Website](https://img.shields.io/badge/-Company%20Website-20C997?style=for-the-badge&logo=business&logoColor=white) |
+| **College Website**        | A responsive college site with sections for academics, admissions, and events.                       | ![Education](https://img.shields.io/badge/-College%20Website-FFC107?style=for-the-badge&logo=education&logoColor=white) |
+| **ERP Software**           | A robust ERP system for managing organizational resources and operations efficiently.                 | ![ERP](https://img.shields.io/badge/-ERP%20Software-1ABC9C?style=for-the-badge&logo=erp&logoColor=white) |
 
 ---
 
