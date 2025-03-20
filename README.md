@@ -109,7 +109,7 @@
   <p>📧 <a href="mailto:iamompandey.it@gmail.com" style="color: #00D4FF; text-decoration: none;">iamompandey.it@gmail.com</a></p>
   <p>💼 <a href="https://www.linkedin.com/in/om-pandey-647844305/" style="color: #00D4FF; text-decoration: none;">LinkedIn</a></p>
   <p>🌐 <a href="https://www.omkumarpandey.com.np/" style="color: #00D4FF; text-decoration: none;">Portfolio</a></p>
-  <p>🐦 <a href="[https://x.com/omeydev](https://x.com/iam_ompandey)" style="color: #00D4FF; text-decoration: none;">@omeydev</a></p>
+  <p>🐦 <a href="https://x.com/iam_ompandey" style="color: #00D4FF; text-decoration: none;">Om Pandey</a></p>
 </div>
 
 ---
