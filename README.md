@@ -193,8 +193,8 @@ graph TD
 ## 🚀 Featured Projects & Solutions
 
 <div align="center">
-  <a href="https://github.com/ompandey07/ManawPayroll">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=ManawPayroll&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+    <a href="[https://github.com/ompandey07/Pioneer-Software-Solutions-Pvt-Ltd](https://github.com/ompandey07/ManawPayroll)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Pioneer-Software-Solutions-Pvt-Ltd&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   </a>
   <a href="https://github.com/ompandey07/FinixLog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=FinixLog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
