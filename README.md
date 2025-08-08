@@ -1,8 +1,9 @@
 # <div align="center">👋 Hello, I'm Om Pandey</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%7C+Next.js+Expert;DevOps+Engineer;UI%2FUX+Designer;Tech+Innovator+%26+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+Finix+Dev;Full+Stack+Software+Developer;MERN+Stack+%7C+Next.js+Developer;Django+%7C+Python+Developer;UI%2FUX+Designer;Tech+Innovator+%26+Entrepreneur" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://github.com/rodrigograca31/rodrigograca31/blob/master/matrix.svg" alt="Matrix SVG" width="100%"/>
