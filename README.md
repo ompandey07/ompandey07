@@ -27,12 +27,21 @@
 ## 💼 Business Impact & Professional Highlights
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Solutions;Scaling+Businesses+Globally;Delivering+High-Performance+Apps" alt="Business Impact" />
+</div>
+
+<div align="center">
   <table>
     <tr>
-      <td align="center"><strong>🏢 Company Founded</strong><br/>Finix Dev</td>
-      <td align="center"><strong>📈 Revenue Generated</strong><br/>$50K+ for Clients</td>
-      <td align="center"><strong>🌍 Global Reach</strong><br/>15+ Countries</td>
-      <td align="center"><strong>⚡ Performance Boost</strong><br/>40% Faster Apps</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏢_Company_Founded-Finix_Dev-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Company"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍_Global_Reach-15+_Countries-ff5733?style=for-the-badge&logo=globe&logoColor=white" alt="Global Reach"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡_Performance_Boost-40%25_Faster_Apps-00d4ff?style=for-the-badge&logo=lightning&logoColor=white" alt="Performance"/>
+      </td>
     </tr>
   </table>
 </div>
