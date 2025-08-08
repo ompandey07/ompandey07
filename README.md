@@ -1,130 +1,238 @@
+# 👋 Hello, I'm Om Pandey
+
 <div align="center">
-  <h1 style="font-family: 'Orbitron', sans-serif; color: #00D4FF; text-shadow: 0 0 5px #00D4FF;">Om Pandey</h1>
-  <p style="font-family: 'Roboto Mono', monospace; color: #E0E0E0; font-size: 18px;">
-    <strong>Full Stack Developer | Tech Innovator | Founder of Finix Dev</strong>
-  </p>
-  <p style="font-family: 'Poppins', sans-serif; color: #B0B0B0; font-size: 16px;">
-    Building scalable, high-performance solutions to solve real-world problems.
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%7C+Next.js+Expert;DevOps+Engineer;UI%2FUX+Designer;Tech+Innovator+%26+Founder" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/rodrigograca31/rodrigograca31/blob/master/matrix.svg" alt="Matrix SVG" width="100%"/>
 </div>
 
 ---
 
-## 🔹 About Me
+## 🚀 About Me - Building Digital Excellence
 
-<div style="background: #0A0F1C; padding: 20px; border-radius: 10px; border-left: 4px solid #00D4FF; box-shadow: 0 0 10px rgba(0, 212, 255, 0.3);">
-  <p style="font-family: 'Poppins', sans-serif; color: #FFFFFF; font-size: 16px;">
-    I’m a <strong>Full Stack Developer</strong> with a passion for crafting <strong>scalable, efficient, and user-centric applications</strong>. As the <strong>Founder of Finix Dev</strong> (<a href="https://finixdev.com" style="color: #00D4FF; text-decoration: none;">finixdev.com</a>), I lead innovative projects that push the boundaries of technology. With expertise in modern frameworks, cloud deployment, and system architecture, I deliver solutions that drive business impact.
-  </p>
-  <ul style="font-family: 'Roboto Mono', monospace; color: #00D4FF; list-style: none;">
-    <li>💻 Specializing in end-to-end development, from UI/UX to backend systems.</li>
-    <li>🌐 Experienced in deploying applications on cloud platforms like Heroku and AWS.</li>
-    <li>🧠 Passionate about AI, blockchain, and emerging technologies.</li>
-  </ul>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🔹 **Founder & CEO** of **[Finix Dev](https://finixdev.com)** - Transforming Ideas into Scalable Solutions  
+🔹 **Full Stack Developer** specializing in **MERN Stack & Next.js**  
+🔹 **DevOps Engineer** with expertise in **CI/CD, Docker & Cloud Deployment**  
+🔹 **UI/UX Designer** proficient in **Adobe Illustrator & Creative Suite**  
+🔹 **Tech Innovator** passionate about **AI, Blockchain & Emerging Technologies**  
+
+> *"Code is poetry written in logic, and I'm here to craft masterpieces that solve real-world problems."*
+
+---
+
+## 💼 Business Impact & Professional Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🏢 Company Founded</strong><br/>Finix Dev</td>
+      <td align="center"><strong>📈 Revenue Generated</strong><br/>$50K+ for Clients</td>
+      <td align="center"><strong>🌍 Global Reach</strong><br/>15+ Countries</td>
+      <td align="center"><strong>⚡ Performance Boost</strong><br/>40% Faster Apps</td>
+    </tr>
+  </table>
+</div>
+
+### 🎯 What I Deliver:
+- ✅ **Enterprise-grade applications** with 99.9% uptime
+- ✅ **Scalable architectures** handling 10K+ concurrent users  
+- ✅ **Cost-effective solutions** reducing operational expenses by 35%
+- ✅ **Modern UI/UX designs** increasing user engagement by 60%
+- ✅ **Complete DevOps pipelines** with automated deployment
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css,tailwind,bootstrap,materialui" alt="Frontend Skills"/>
+</div>
+
+### **Backend Development** 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,fastapi,graphql,mongodb,postgresql,mysql" alt="Backend Skills"/>
+</div>
+
+### **DevOps & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,vercel,nginx,jenkins,github" alt="DevOps Skills"/>
+</div>
+
+### **Design & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma,vscode,git,postman,linux" alt="Design & Tools"/>
 </div>
 
 ---
 
-## 🔹 Core Competencies
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table style="border: none; background: #1A1F2E; padding: 15px; border-radius: 8px; color: #FFFFFF; font-family: 'Poppins', sans-serif; box-shadow: 0 0 10px rgba(0, 212, 255, 0.2);">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompandey&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff5733&currStreakLabel=00d4ff"/>
+</div>
+
+---
+
+## 🏗️ Architecture & Development Approach
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Client Requirements] --> B[System Design]
+    B --> C[Frontend Development]
+    B --> D[Backend Architecture]
+    B --> E[Database Design]
+    C --> F[React/Next.js]
+    D --> G[Node.js/Python]
+    E --> H[MongoDB/PostgreSQL]
+    F --> I[Deployment]
+    G --> I
+    H --> I
+    I --> J[DevOps Pipeline]
+    J --> K[Monitoring & Scaling]
+```
+
+</div>
+
+---
+
+## 🎨 Design Philosophy
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompandey&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=ff5733&point=00d4ff&area=true&hide_border=true" width="100%"/>
+</div>
+
+### **My Creative Process:**
+🎯 **User-Centric Design** → 🎨 **Adobe Illustrator Mockups** → 💻 **Responsive Development** → 🚀 **Performance Optimization**
+
+---
+
+## 🌟 Core Competencies Matrix
+
+<table align="center">
+  <tr>
+    <th>🔥 Expertise Level</th>
+    <th>⚡ Technology Stack</th>
+    <th>💼 Business Value</th>
+  </tr>
+  <tr>
+    <td><strong>Expert (90%+)</strong></td>
+    <td>React, Next.js, Node.js, Python, MongoDB</td>
+    <td>Rapid MVP development, Scalable solutions</td>
+  </tr>
+  <tr>
+    <td><strong>Advanced (80%+)</strong></td>
+    <td>Django, PostgreSQL, Docker, AWS, Adobe Suite</td>
+    <td>Enterprise applications, Brand design</td>
+  </tr>
+  <tr>
+    <td><strong>Proficient (70%+)</strong></td>
+    <td>TypeScript, GraphQL, Kubernetes, DevOps</td>
+    <td>Type-safe apps, API optimization</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects & Solutions
+
+<div align="center">
+  <a href="https://github.com/ompandey/finix-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey&repo=finix-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  </a>
+  <a href="https://github.com/ompandey/ecommerce-mern">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey&repo=ecommerce-mern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  </a>
+</div>
+
+### 🏆 **Project Highlights:**
+- **🛒 E-commerce Platform**: MERN stack with Stripe integration, handling $100K+ transactions
+- **📊 Analytics Dashboard**: React + D3.js visualization processing 1M+ data points
+- **🏦 FinTech Application**: Next.js + PostgreSQL with advanced security features
+- **🎨 Design System**: Adobe Illustrator components used across 5+ major projects
+
+---
+
+## 💡 Innovation & Problem Solving
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" />
+</div>
+
+### **My Development Methodology:**
+1. **🔍 Problem Analysis** - Deep dive into business requirements
+2. **🏗️ Architecture Design** - Scalable, maintainable system design  
+3. **⚡ Rapid Prototyping** - Quick MVP development for validation
+4. **🎨 Design Integration** - Seamless UI/UX implementation
+5. **🚀 Performance Optimization** - Speed, security, and scalability
+6. **📈 Continuous Improvement** - Iterative enhancement based on metrics
+
+---
+
+## 🤝 Let's Build Something Amazing Together
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.omkumarpandey.com.np/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-pandey-647844305/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamompandey.it@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_ompandey)
+  [![Finix Dev](https://img.shields.io/badge/Company-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://finixdev.com)
+
+</div>
+
+### **🎯 Open for:**
+- 💼 **Freelance Projects** - Full-stack web applications
+- 🤝 **Collaborations** - Open source contributions  
+- 💡 **Consulting** - Technical architecture and strategy
+- 🚀 **Partnerships** - Long-term business relationships
+
+---
+
+## 📈 Why Choose Om Pandey?
+
+<div align="center">
+  <table>
     <tr>
-      <th style="color: #00D4FF;">Domain</th>
-      <th style="color: #00D4FF;">Technologies</th>
-    </tr>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td>React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap</td>
-    </tr>
-    <tr>
-      <td><strong>Backend Development</strong></td>
-      <td>Python, Django, REST APIs, Node.js</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>SQL (MySQL, PostgreSQL), NoSQL (MongoDB)</td>
-    </tr>
-    <tr>
-      <td><strong>DevOps & Deployment</strong></td>
-      <td>Docker, Heroku, GitHub Actions, CI/CD Pipelines</td>
-    </tr>
-    <tr>
-      <td><strong>Tools & Workflows</strong></td>
-      <td>VS Code, Postman, Git, Agile Methodologies</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00d4ff?style=for-the-badge" alt="Experience"/>
+        <br/><strong>Proven Track Record</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Projects-50%2B%20Delivered-00d4ff?style=for-the-badge" alt="Projects"/>
+        <br/><strong>Portfolio Excellence</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Satisfaction-100%25-00d4ff?style=for-the-badge" alt="Satisfaction"/>
+        <br/><strong>Client Success</strong>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🔹 Why Hire Me?
-
-<div style="background: #0A0F1C; padding: 20px; border-radius: 10px; border-left: 4px solid #FF5733; box-shadow: 0 0 10px rgba(255, 87, 51, 0.3);">
-  <ul style="font-family: 'Roboto Mono', monospace; color: #FFFFFF; list-style: none;">
-    <li>🛠️ <strong>End-to-End Expertise</strong>: I architect and deliver full-stack solutions that are robust, scalable, and maintainable.</li>
-    <li>📈 <strong>Business Impact</strong>: My applications have streamlined operations and boosted efficiency for clients across industries.</li>
-    <li>💡 <strong>Innovative Problem Solver</strong>: I tackle complex challenges with creative, technology-driven solutions.</li>
-    <li>🚀 <strong>Leadership & Vision</strong>: As Founder of Finix Dev, I bring a strategic mindset to every project, ensuring alignment with business goals.</li>
-    <li>🤝 <strong>Collaborative Partner</strong>: I thrive in team environments, delivering on time and exceeding expectations.</li>
-  </ul>
-</div>
-
----
-
-## 🔹 Technical Skills
-
-<div align="center" style="background: #1A1F2E; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 212, 255, 0.2);">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-## 🔹 Professional Highlights
-
-<div style="background: #0A0F1C; padding: 20px; border-radius: 10px; border-left: 4px solid #FFD700; box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);">
-  <ul style="font-family: 'Roboto Mono', monospace; color: #FFFFFF; list-style: none;">
-    <li>🌟 <strong>Founder of Finix Dev</strong>: Leading a tech-driven company focused on innovative software solutions (<a href="https://finixdev.com" style="color: #00D4FF; text-decoration: none;">finixdev.com</a>).</li>
-    <li>📊 <strong>System Architecture</strong>: Designed and deployed scalable applications for clients, reducing operational costs by 30%.</li>
-    <li>🛡️ <strong>Code Quality</strong>: Advocate for clean code practices, ensuring maintainability and performance in every project.</li>
-    <li>🌍 <strong>Global Impact</strong>: Delivered solutions for clients in finance, education, and enterprise sectors, enhancing user experiences worldwide.</li>
-  </ul>
-</div>
-
----
-
-## 🔹 Let’s Connect
-
-<div align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF;">
-  <p>📧 <a href="mailto:iamompandey.it@gmail.com" style="color: #00D4FF; text-decoration: none;">iamompandey.it@gmail.com</a></p>
-  <p>💼 <a href="https://www.linkedin.com/in/om-pandey-647844305/" style="color: #00D4FF; text-decoration: none;">LinkedIn</a></p>
-  <p>🌐 <a href="https://www.omkumarpandey.com.np/" style="color: #00D4FF; text-decoration: none;">Portfolio</a></p>
-  <p>🐦 <a href="https://x.com/iam_ompandey" style="color: #00D4FF; text-decoration: none;">Om Pandey</a></p>
-</div>
-
----
-
-## 🔹 Developer Mindset
-
-<div style="background: #0A0F1C; padding: 20px; border-radius: 10px; border-left: 4px solid #00FFEA; box-shadow: 0 0 10px rgba(0, 255, 234, 0.3);">
-  <ul style="font-family: 'Roboto Mono', monospace; color: #FFFFFF; list-style: none;">
-    <li>📚 <strong>Lifelong Learner</strong>: Constantly exploring new technologies to stay ahead of the curve.</li>
-    <li>🧩 <strong>Problem Solver</strong>: I break down complex challenges into actionable, efficient solutions.</li>
-    <li>⚙️ <strong>Automation Advocate</strong>: Streamlining workflows with CI/CD pipelines and DevOps practices.</li>
-  </ul>
-</div>
-
----
 <div align="center">
-  <p style="font-family: 'Orbitron', sans-serif; color: #00D4FF; text-shadow: 0 0 5px #00D4FF;">Ready to Build the Future of Tech</p>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💫 "Transforming Ideas into Digital Reality - One Line of Code at a Time" 💫</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=ompandey&color=00d4ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  
+  ⭐ **Star my repositories if you find them helpful!** ⭐
 </div>
