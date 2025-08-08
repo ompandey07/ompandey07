@@ -95,9 +95,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,js&theme=dark" alt="Most Used Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompandey&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff5733&currStreakLabel=00d4ff"/>
-</div>
+
 
 ---
 
