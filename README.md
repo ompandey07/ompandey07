@@ -61,40 +61,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+%7C+DevOps+%7C+Design;React+%7C+Node.js+%7C+Docker+%7C+Illustrator;MERN+Stack+%7C+Next.js+%7C+AWS+%7C+Adobe+Suite;Building+Full-Stack+Masterpieces" alt="Tech Stack" />
 </div>
 
-### **🎨 Frontend Development**
+### **Frontend Development**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css,tailwind,bootstrap,materialui&theme=dark&perline=5" alt="Frontend Skills"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend Skills"/>
 </div>
 
-### **⚙️ Backend Development** 
+### **Backend Development** 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,fastapi,graphql,mongodb,postgresql,mysql&theme=dark&perline=5" alt="Backend Skills"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,fastapi,graphql,mongodb,postgresql,mysql&theme=dark" alt="Backend Skills"/>
 </div>
 
-### **☁️ DevOps & Cloud**
+### **DevOps & Cloud**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,vercel,nginx,jenkins,github&theme=dark&perline=4" alt="DevOps Skills"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-Proficient-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/CI/CD-Expert-00D4FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,vercel,nginx,jenkins,github&theme=dark" alt="DevOps Skills"/>
 </div>
 
-### **🎯 Design & Tools**
+### **Design & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma,vscode,git,postman,linux&theme=dark&perline=4" alt="Design & Tools"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-Expert-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/UI/UX_Design-Advanced-FF5733?style=flat-square&logo=figma&logoColor=white" alt="UI/UX"/>
-  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma,vscode,git,postman,linux&theme=dark" alt="Design & Tools"/>
 </div>
 
 ---
