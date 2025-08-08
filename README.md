@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Om Pandey
+# <div align="center">👋 Hello, I'm Om Pandey</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%7C+Next.js+Expert;DevOps+Engineer;UI%2FUX+Designer;Tech+Innovator+%26+Founder" alt="Typing SVG" />
@@ -87,7 +87,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=3&hide=html,css,scss,less,stylus"/>
 </div>
 
 <div align="center">
