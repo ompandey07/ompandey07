@@ -195,19 +195,26 @@ graph TD
 ## 🚀 Featured Projects & Solutions
 
 <div align="center">
-  <a href="https://github.com/ompandey/finix-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey&repo=finix-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <a href="https://github.com/ompandey07/ManawPayroll">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=ManawPayroll&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   </a>
-  <a href="https://github.com/ompandey/ecommerce-mern">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey&repo=ecommerce-mern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <a href="https://github.com/ompandey07/FinixLog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=FinixLog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ompandey07/Pioneer-Software-Solutions-Pvt-Ltd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Pioneer-Software-Solutions-Pvt-Ltd&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   </a>
 </div>
 
 ### 🏆 **Project Highlights:**
-- **🛒 E-commerce Platform**: MERN stack with Stripe integration, handling $100K+ transactions
-- **📊 Analytics Dashboard**: React + D3.js visualization processing 1M+ data points
-- **🏦 FinTech Application**: Next.js + PostgreSQL with advanced security features
-- **🎨 Design System**: Adobe Illustrator components used across 5+ major projects
+- **💼 Manaw Payroll System**: Full-stack payroll management solution built with Django & React, handling employee data and automated salary calculations
+- **📊 Finix Logs**: Advanced logging and monitoring dashboard using MERN stack for real-time application performance tracking
+- **🏢 Pioneer Software Solutions**: Enterprise-level software management platform with comprehensive client and project management features
+- **🎨 Custom Design Integration**: Adobe Illustrator components and UI/UX designs implemented across all major projects
+- **⚡ Performance Optimization**: All applications optimized for speed, scalability, and enhanced user experience
 
 ---
 
