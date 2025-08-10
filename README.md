@@ -198,10 +198,11 @@ graph TD
   <a href="https://github.com/ompandey07/Sonal-Copy-Products" title="Business site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Sonal-Copy-Products&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   </a>
-  <a href="https://github.com/ompandey07/FinixLog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=FinixLog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <a href="https://github.com/ompandey07/Ultron">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Ultron&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   </a>
 </div>
+
 
 
 <div align="center">
