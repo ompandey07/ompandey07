@@ -1,84 +1,198 @@
-# Om Pandey
+<div align="center">
 
-**Full Stack Developer & Founder at [Finix Dev](https://finixdev.com)**
+# 👨‍💻 Om Pandey
 
-Building scalable web applications with modern technologies. Specialized in end-to-end product development, from initial architecture to production deployment.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Founder+at+Finix+Dev;Building+Scalable+Solutions;DevOps+%7C+System+Architecture" alt="Typing SVG" />
 
----
+</div>
 
-## What I Do
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  Building production-grade applications with modern tech stack  ║
+║  Specialized in scalable architecture & end-to-end development  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-I architect and build production-grade applications focusing on:
+<div align="center">
 
-- **Full Stack Development** - React/Next.js frontend with Node.js/Django backends
-- **System Design** - Scalable architectures handling high concurrent loads
-- **DevOps & Infrastructure** - Docker, CI/CD pipelines, and cloud deployment
-- **Technical Leadership** - From concept to production, managing the complete development lifecycle
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&logoColor=white)](https://www.omkumarpandey.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-pandey-647844305/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamompandey.it@gmail.com)
+[![Finix Dev](https://img.shields.io/badge/🏢_Finix_Dev-000000?style=for-the-badge)](https://finixdev.com)
 
-Currently running Finix Dev, where we deliver enterprise solutions for clients globally.
-
----
-
-## Tech Stack
-
-**Frontend**  
-React • Next.js • TypeScript • Tailwind CSS
-
-**Backend**  
-Node.js • Python • Django • Express • PostgreSQL • MongoDB
-
-**DevOps**  
-Docker • AWS • Nginx • CI/CD Pipelines
-
-**Tools**  
-Git • Linux • Figma • Adobe Suite
+</div>
 
 ---
 
-## Recent Work
+## 🎯 What I Do
 
-### [Manaw Payroll System](https://github.com/ompandey07/Manaw-Payroll-System)
-Full-stack payroll management with automated calculations and employee data handling  
-`Django` `React` `PostgreSQL`
+<table>
+<tr>
+<td width="50%">
 
-### [Finix Logs](https://github.com/ompandey07/finix-logs)
-Real-time application monitoring and logging dashboard  
-`MERN Stack` `WebSocket`
+### 💻 Full Stack Development
+Building responsive web applications with React/Next.js frontends and robust Node.js/Django backends. Focus on clean code and maintainable architecture.
 
-### [Pioneer Software Solutions](https://github.com/ompandey07/Pioneer-Software-Solutions-Pvt-Ltd)
-Enterprise project management platform  
-`Next.js` `Node.js` `MongoDB`
+### 🏗️ System Architecture
+Designing scalable systems that handle high traffic and concurrent users. Microservices, API design, and database optimization.
 
----
+</td>
+<td width="50%">
 
-## Approach
+### ⚙️ DevOps & Infrastructure
+Docker containerization, CI/CD pipelines, and cloud deployment. Automating everything from testing to production.
 
-I believe in:
-- **Clean, maintainable code** over clever hacks
-- **Scalable architecture** that grows with the product
-- **Performance optimization** at every layer
-- **Practical solutions** that solve real business problems
+### 🚀 Product Development
+End-to-end ownership from initial concept to production deployment. Technical leadership and project management.
 
----
-
-## Open To
-
-- **Contract work** for full-stack development projects
-- **Technical consulting** on architecture and scalability
-- **Collaboration** on interesting open-source projects
+</td>
+</tr>
+</table>
 
 ---
 
-## Get In Touch
+## 🛠️ Tech Stack
 
-📧 iamompandey.it@gmail.com  
-🌐 [omkumarpandey.com.np](https://www.omkumarpandey.com.np)  
-💼 [LinkedIn](https://www.linkedin.com/in/om-pandey-647844305)  
-🏢 [Finix Dev](https://finixdev.com)
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,express,mongodb,postgresql,redis&theme=dark" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux,vscode,figma&theme=dark" />
+
+</div>
+
+```javascript
+const omPandey = {
+    location: "Nepal",
+    company: "Finix Dev",
+    role: "Founder & Full Stack Developer",
+    expertise: ["React", "Next.js", "Node.js", "Django", "DevOps"],
+    currentFocus: "Building scalable SaaS platforms",
+    openTo: ["Contract Work", "Technical Consulting", "Collaboration"]
+};
+```
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ompandey07/Manaw-Payroll-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Manaw-Payroll-System&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/ompandey07/finix-logs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=finix-logs&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ompandey07/Pioneer-Software-Solutions-Pvt-Ltd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Pioneer-Software-Solutions-Pvt-Ltd&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/ompandey07/GMSCOLLEGESITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=GMSCOLLEGESITE&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
+### 🎯 Project Highlights
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Manaw Payroll System** | Full-stack payroll management with automated calculations | `Django` `React` `PostgreSQL` |
+| **Finix Logs** | Real-time monitoring dashboard with WebSocket integration | `MERN Stack` `Socket.io` |
+| **Pioneer Software** | Enterprise project management platform | `Next.js` `Node.js` `MongoDB` |
+| **GMS College Site** | Modern educational website with CMS | `React` `Django` `REST API` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ompandey&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompandey&theme=github-compact&hide_border=true&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%"/>
+</div>
+
+---
+
+## 💼 Development Approach
+
+```mermaid
+graph LR
+    A[📋 Requirements] --> B[🎨 Design]
+    B --> C[⚙️ Architecture]
+    C --> D[💻 Development]
+    D --> E[🧪 Testing]
+    E --> F[🚀 Deployment]
+    F --> G[📊 Monitoring]
+    
+    style A fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style B fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style C fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style D fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style E fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style F fill:#238636,stroke:#58a6ff,stroke-width:2px
+    style G fill:#238636,stroke:#58a6ff,stroke-width:2px
+```
+
+<div align="center">
+
+### ⚡ Core Principles
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=code&logoColor=white"/>
+<br><sub>Maintainable & readable</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Scalability-000000?style=for-the-badge&logo=target&logoColor=white"/>
+<br><sub>Built to grow</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logo=lightning&logoColor=white"/>
+<br><sub>Optimized at every layer</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Open For
+
+<div align="center">
+
+```diff
++ Contract work for full-stack development projects
++ Technical consulting on architecture and scalability  
++ Collaboration on interesting open-source projects
++ Long-term partnerships with growing startups
+```
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompandey&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+
+### 💡 *"Write code that speaks for itself, build systems that scale"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=ompandey&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
 </div>
