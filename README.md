@@ -1,17 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Om Pandey
+# Om Pandey
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Founder+at+Finix+Dev;Building+Scalable+Solutions;DevOps+%7C+System+Architecture" alt="Typing SVG" />
 
 </div>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║  Building production-grade applications with modern tech stack  ║
-║  Specialized in scalable architecture & end-to-end development  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+production-grade+applications+with+modern+tech+stack;Specialized+in+scalable+architecture+%26+end-to-end+development;From+concept+to+deployment+%7C+Full+lifecycle+ownership" alt="Description" />
+</div>
 
 <div align="center">
 
@@ -79,42 +76,7 @@ const omPandey = {
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ompandey07/Manaw-Payroll-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Manaw-Payroll-System&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/ompandey07/finix-logs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=finix-logs&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ompandey07/Pioneer-Software-Solutions-Pvt-Ltd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=Pioneer-Software-Solutions-Pvt-Ltd&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/ompandey07/GMSCOLLEGESITE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ompandey07&repo=GMSCOLLEGESITE&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-### 🎯 Project Highlights
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Manaw Payroll System** | Full-stack payroll management with automated calculations | `Django` `React` `PostgreSQL` |
-| **Finix Logs** | Real-time monitoring dashboard with WebSocket integration | `MERN Stack` `Socket.io` |
-| **Pioneer Software** | Enterprise project management platform | `Next.js` `Node.js` `MongoDB` |
-| **GMS College Site** | Modern educational website with CMS | `React` `Django` `REST API` |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
@@ -123,6 +85,14 @@ const omPandey = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompandey&theme=github-compact&hide_border=true&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ompandey&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
