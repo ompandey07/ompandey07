@@ -1,13 +1,12 @@
 <div align="center">
 
-# Om Pandey
+# 𝕆𝕞 ℙ𝕒𝕟𝕕𝕖𝕪
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+IT+%40+Pioneer+Software+Solutions;Software+Developer+%40+Mega+Minds+Pvt+Ltd;Full+Stack+Developer;Building+Scalable+Solutions;DevOps+%7C+System+Architecture" alt="Typing SVG" />
+**Senior IT @ Pioneer Software Solutions | Software Developer @ Mega Minds Pvt Ltd**
 
-</div>
+*Building production-grade applications with modern tech stack*  
+*Specialized in scalable architecture & end-to-end development*
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+production-grade+applications+with+modern+tech+stack;Specialized+in+scalable+architecture+%26+end-to-end+development;From+concept+to+deployment+%7C+Full+lifecycle+ownership" alt="Description" />
 </div>
 
 <div align="center">
