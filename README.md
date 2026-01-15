@@ -76,28 +76,110 @@ const omPandey = {
 
 ---
 
-## 📊 Contribution Activity
+## 🏆 Professional Experience & Expertise
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ompandey&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🏢 Pioneer Software Solutions</h3>
+<img src="https://img.shields.io/badge/Role-Senior_IT-2ea44f?style=for-the-badge"/>
+<br/><br/>
+<p align="left">
+• Leading full-stack development projects<br/>
+• System architecture & infrastructure design<br/>
+• Team collaboration & technical mentorship<br/>
+• DevOps pipeline implementation
+</p>
+</td>
+<td align="center" width="50%">
+<h3>💼 Mega Minds Pvt Ltd</h3>
+<img src="https://img.shields.io/badge/Role-Software_Developer-1f6feb?style=for-the-badge"/>
+<br/><br/>
+<p align="left">
+• Building scalable web applications<br/>
+• API development & integration<br/>
+• Database optimization & design<br/>
+• Code review & quality assurance
+</p>
+</td>
+</tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompandey&theme=github-compact&hide_border=true&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%"/>
-</div>
+### 💡 Key Competencies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ompandey&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+| Domain | Technologies | Impact |
+|--------|-------------|---------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind | High-performance UIs, 60+ FPS animations |
+| **Backend** | Node.js, Django, Express, REST APIs | Scalable microservices, 10K+ concurrent users |
+| **Database** | PostgreSQL, MongoDB, Redis | Optimized queries, 40% faster response time |
+| **DevOps** | Docker, AWS, CI/CD, Nginx | Automated deployments, 99% uptime |
+| **Architecture** | System Design, Microservices, API Design | Enterprise-grade solutions, fault-tolerant systems |
+
 </div>
 
 ---
 
-## 💼 Development Approach
+## 🎯 Current Focus & Projects
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│  Working on scalable SaaS platforms & enterprise solutions      │
+│  Exploring AI integration, microservices & cloud architecture   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🚀-SaaS_Platforms-58a6ff?style=for-the-badge"/>
+<br/><br/>
+<sub>Building multi-tenant applications with role-based access, payment integration, and real-time features</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🏗️-Enterprise_Solutions-58a6ff?style=for-the-badge"/>
+<br/><br/>
+<sub>Architecting large-scale systems with microservices, API gateways, and distributed databases</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/⚡-Performance_Optimization-58a6ff?style=for-the-badge"/>
+<br/><br/>
+<sub>Optimizing response times, implementing caching strategies, and reducing infrastructure costs</sub>
+</td>
+</tr>
+</table>
+
+### 🔧 Recent Technical Achievements
+
+<div align="center">
+
+| Achievement | Technology | Result |
+|-------------|-----------|---------|
+| Built real-time monitoring dashboard | React + WebSocket + Node.js | Live tracking of 50+ metrics |
+| Implemented CI/CD pipeline | Docker + GitHub Actions | 80% faster deployment |
+| Optimized database queries | PostgreSQL + Indexing | 3x faster API responses |
+| Developed payroll automation | Django + Celery | Automated processing for 500+ employees |
+| Created microservices architecture | Node.js + Redis + RabbitMQ | Handled 10K+ concurrent requests |
+
+</div>
+
+---
+
+## 💻 Code & Collaboration
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompandey&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</div>
 
 ```mermaid
 graph LR
