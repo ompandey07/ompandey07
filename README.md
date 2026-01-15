@@ -2,7 +2,7 @@
 
 # Om Pandey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Founder+at+Finix+Dev;Building+Scalable+Solutions;DevOps+%7C+System+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+IT+%40+Pioneer+Software+Solutions;Software+Developer+%40+Mega+Minds+Pvt+Ltd;Full+Stack+Developer;Building+Scalable+Solutions;DevOps+%7C+System+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&logoColor=white)](https://www.omkumarpandey.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-pandey-647844305/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamompandey.it@gmail.com)
-[![Finix Dev](https://img.shields.io/badge/🏢_Finix_Dev-000000?style=for-the-badge)](https://finixdev.com)
 
 </div>
 
@@ -66,8 +65,10 @@ End-to-end ownership from initial concept to production deployment. Technical le
 ```javascript
 const omPandey = {
     location: "Nepal",
-    company: "Finix Dev",
-    role: "Founder & Full Stack Developer",
+    currentRoles: [
+        "Senior IT @ Pioneer Software Solutions",
+        "Software Developer @ Mega Minds Pvt Ltd"
+    ],
     expertise: ["React", "Next.js", "Node.js", "Django", "DevOps"],
     currentFocus: "Building scalable SaaS platforms",
     openTo: ["Contract Work", "Technical Consulting", "Collaboration"]
@@ -76,7 +77,7 @@ const omPandey = {
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Contribution Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ompandey&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
